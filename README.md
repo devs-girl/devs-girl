@@ -12,10 +12,6 @@ Skills:  HTML / CSS/ JS / REACT JS / REACT ROUTER/ FIREBASE / REACT BOOTSTRAP/ T
 - 😄 Pronouns: devs_girl 
 - ⚡ Fun fact: 🙂 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devs-girl)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devs-girl&show_icons=true&count_private=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devs-girl)  
 
 ![GitHub metrics](https://metrics.lecoq.io/devs-girl)  
