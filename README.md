@@ -12,9 +12,6 @@ Skills:  HTML / CSS/ JS / REACT JS / REACT ROUTER/ FIREBASE / REACT BOOTSTRAP/ T
 - 😄 Pronouns: devs_girl 
 - ⚡ Fun fact: 🙂 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devs-girl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saifun-nahar-sumi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Saifun Nahar Sumi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/devs_girl97//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/saifun-nahar)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devs-girl)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devs-girl&show_icons=true&count_private=true)  
