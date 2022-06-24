@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Saifun Nahar Sumi
 #### I am a React JS Developer.
-I am a passionate front end developer with  2 years of experience. And also graduate in the Mathematics department. I work locally and internationally all over the world. I always take challenge and love I love programming. My aim is to become a winner girl in the technology world.
+I am a passionate front end developer with  2 years of experience. And also graduate in the Mathematics department. I work locally and internationally all over the world. I always take challenge and core love to programming. My aim is to become a winner girl in the technology world.
 
 Skills:  HTML / CSS/ JS / REACT JS / REACT ROUTER/ FIREBASE / REACT BOOTSTRAP/ TAILWIND CSS/ MATERIAL UI/ NODE JS/ MONGO DB.
 
